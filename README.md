@@ -137,4 +137,4 @@ Follow the steps below to run the project locally:
 
 ## 🖼️
 
-<img width="928" height="467" alt="Ekran görüntüsü 2025-10-04 114642" src="https://github.com/user-attachments/assets/ca8b9ca3-a8b2-4665-abd3-8bd651d10f91" />
+<img width="600" height="467" alt="Ekran görüntüsü 2025-10-04 114642" src="https://github.com/user-attachments/assets/ca8b9ca3-a8b2-4665-abd3-8bd651d10f91" />
